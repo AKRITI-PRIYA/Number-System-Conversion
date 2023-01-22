@@ -8,14 +8,14 @@ Number System Converter can do the complex conversion for you quickly. Made usin
 
 > _This program can perform the following conversion:_
 
-- Binary to Decimal
-- Binary to Octal
-- Binary to Hexa-Decimal
-- Decimal to Binary
-- Decimal to Octal
-- Decimal to Hexa-Decimal
-- Octal to Binary
-- Octal to Decimal
+- Binary to Decimal (base 2 to 10)
+- Binary to Octal  (base 2 to 8)
+- Binary to Hexa-Decimal (base 2 to 16)
+- Decimal to Binary (10 to 2)
+- Decimal to Octal (10 to 8)
+- Decimal to Hexa-Decimal (10 to 16)
+- Octal to Binary (8 to 2)
+- Octal to Decimal (8 to 10)
 - Octal to Hexa-Decimal
 - Hexa-Decimal to Binary
 - Hexa-Decimal to Decimal
